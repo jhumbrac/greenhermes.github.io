@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+}
+
+h1 { 
+	color: red;
+} 
+
+body{
+	text-align: center;
+	background: url("https://www.flamingfun.com/wp-content/uploads/2015/03/exitonearmvolt.jpeg");
+	background-size: cover;
+}
+
+p {
+	text-align: center;
+	color: gold;
+}
