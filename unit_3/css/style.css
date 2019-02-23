@@ -16,3 +16,7 @@ p {
 	text-align: center;
 	color: gold;
 }
+
+input {
+	text-align: right;
+}
