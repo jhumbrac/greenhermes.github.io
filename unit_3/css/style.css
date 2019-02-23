@@ -20,3 +20,7 @@ p {
 nav {
 	float: right;
 }
+
+input {
+	margin: 20px;
+}
