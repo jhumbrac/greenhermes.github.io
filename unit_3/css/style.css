@@ -7,6 +7,10 @@ h1 {
 	color: red;
 } 
 
+h1.input{
+	text-align: right;
+}
+
 body{
 	text-align: center;
 }
@@ -16,13 +20,6 @@ p {
 	color: gold;
 }
 
-img {
-	margin: 50px;
-}
-
-nav {
-	float: right;
-}
 
 input {
 	margin: 20px;
