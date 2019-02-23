@@ -17,6 +17,7 @@ p {
 	color: gold;
 }
 
-input {
+nav {
+	display: block;
 	text-align: right;
 }
