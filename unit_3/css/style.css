@@ -3,13 +3,14 @@ body {
 }
 
 h1 { 
+	text-align: left;
 	color: red;
 } 
 
 body{
 	text-align: center;
 	background: url("https://www.flamingfun.com/wp-content/uploads/2015/03/exitonearmvolt.jpeg");
-	background-size: cover;
+	background-size: auto;
 }
 
 p {
