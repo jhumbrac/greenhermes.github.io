@@ -9,12 +9,15 @@ h1 {
 
 body{
 	text-align: center;
-
 }
 
 p {
 	text-align: center;
 	color: gold;
+}
+
+img {
+	margin: 50px;
 }
 
 nav {
