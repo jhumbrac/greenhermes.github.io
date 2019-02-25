@@ -4,7 +4,7 @@ body {
 
 h1 { 
 	/* text-align: left; */
-	justify-content: space-around;
+	justify-content: space-between;
 	color: red;
 } 
 
@@ -13,7 +13,7 @@ body{
 }
 
 p {
-	width: 600px;
+	width: 610px;
 	margin-left: auto;
   margin-right: auto;
 	text-align: center;
