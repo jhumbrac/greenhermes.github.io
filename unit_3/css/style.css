@@ -3,7 +3,8 @@ body {
 }
 
 h1 { 
-	text-align: left;
+	/* text-align: left; */
+	justify-content: space-around;
 	color: red;
 } 
 
