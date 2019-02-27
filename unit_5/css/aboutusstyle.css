@@ -1,0 +1,61 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Marck+Script');
+
+
+body {
+	background-color: black;
+}
+
+h1 { 
+
+	color: red;
+	font-family: 'Marck Script', cursive;
+	font-size: 2.8em
+} 
+
+
+h2{
+	color: red;
+	padding: 0px 0px 0px 15px;
+	font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+h3{ 
+	color: red;
+	padding: 0px 0px 0px 30px;
+	font-weight: lighter;
+}
+
+ul {
+	text-align: left;
+	width: 50%;
+	list-style-type: none;
+}
+
+li{
+	color: gold;
+}
+
+p {
+	line-height: 1.35em;
+	width: 50%;
+	padding: 0px 0px 10px 50px;
+	color: gold;
+	font-family:  'Libre Baskerville', serif;
+	font-size: 13px;
+	letter-spacing: 0.03em;
+}
+
+body{
+	text-align: left;
+}
+
+img {
+	text-align: center;
+}
+
+
+input {
+	margin: 20px;
+}
